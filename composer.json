@@ -1,0 +1,14 @@
+{
+    "name": "m0h314-hasani/solid_principles",
+    "description": "Learning SOLID principles",
+    "autoload": {
+        "psr-4": {
+            "SOLID\\": "."
+        }
+    },
+    "authors": [{
+        "name": "M0h314-hasani",
+        "email": "m0h314.hasani@gmail.com"
+    }],
+    "require": {}
+}
