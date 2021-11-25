@@ -1,2 +1,3 @@
 Type: video
 Source: https://www.youtube.com/watch?v=VpH6OfyYrF0
+source: https://codecourse.com/watch/the-solid-design-principals
